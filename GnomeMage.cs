@@ -5,7 +5,7 @@ namespace AbstractFactory
     {
         public override string MageVoice()
         {
-            return "Я гном маг,я создался";
+            return "Я гном маг,я создался!!!!";
         }
     }
 }
